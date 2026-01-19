@@ -9,7 +9,7 @@ jobs:
         steps:
             - name: Print greetings
               run: echo "Hello World"
-            - name: Print Goodbys
+            - name: Print Goodbye
               run: |
                 echo "This is my first GitHub Action"
                 echo "Workflow executed successfully"
